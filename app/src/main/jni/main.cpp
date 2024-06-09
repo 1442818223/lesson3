@@ -163,7 +163,7 @@ Java_com_example_lesson3_AIDLService_nataveHHH(JNIEnv *env, jobject clazz, jstri
 //        long int res_write = syscall(__NR_process_vm_writev,pid,&local2,1,&remote2,1,0);
 
 
-
+//修改后的
 
     return pid;
 }
